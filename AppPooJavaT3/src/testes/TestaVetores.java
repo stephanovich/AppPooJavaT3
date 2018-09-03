@@ -9,7 +9,6 @@ public class TestaVetores {
 		int mes = 0;	
 		float soma = 0;
 		
-		//Criação de vetores
 		float[] valores = new float[tamanho];		
 		float[] totais = new float[12];		
 		String[] meses = {"Jan","Fev","Mar","Abr","Mai","Jun","Jul","Ago","Set","Out","Nov","Dez"};		
